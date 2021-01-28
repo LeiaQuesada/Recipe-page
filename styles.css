@@ -1,7 +1,7 @@
 body {
     background-color: #E5E4E2;
     font-family: 'Source Sans Pro', sans-serif;
-    margin-left: 20px;
+    margin: 20px;
 }
 
 h1, h2, h3 {
@@ -28,4 +28,8 @@ p {
     float: left;
     text-align: left;
     margin-left: 30px;
+}
+
+.container-fluid {
+    background-color: #FDB196;
 }
