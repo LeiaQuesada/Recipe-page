@@ -1,6 +1,7 @@
 body {
     background-color: #E5E4E2;
     font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 20px;
 }
 
 h1, h2, h3 {
@@ -20,7 +21,6 @@ p {
     width: 600px;
     float: left;
     text-align: left;
-    margin-top: 23px;
 }
 
 .right {
